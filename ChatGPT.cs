@@ -5,7 +5,7 @@ using System.Text;
 using UnityEngine;
 using UnityEngine.Networking;
 
-internal static class ChatGPT
+public static class ChatGPT
 {
     /// <summary>
     /// 通过携程发送请求
